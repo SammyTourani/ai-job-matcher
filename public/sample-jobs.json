@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Full Stack Developer",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA",
+    "salary_min": 120000,
+    "salary_max": 180000,
+    "description": "We are seeking a skilled Senior Full Stack Developer to join our dynamic team. You will be responsible for developing and maintaining web applications using modern technologies. The ideal candidate will have experience with both frontend and backend development, strong problem-solving skills, and the ability to work in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "5+ years of experience in full stack development",
+      "Experience with React, Node.js, and TypeScript",
+      "Strong understanding of database design and optimization",
+      "Excellent communication and teamwork skills"
+    ],
+    "skills": ["React", "Node.js", "TypeScript", "PostgreSQL", "AWS", "Docker", "Git", "REST API", "GraphQL"],
+    "experience_level": "senior",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-15T10:00:00Z",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Frontend React Developer",
+    "company": "StartupXYZ",
+    "location": "Austin, TX",
+    "salary_min": 80000,
+    "salary_max": 120000,
+    "description": "Join our innovative startup as a Frontend React Developer. You'll work on cutting-edge web applications, collaborate with designers and product managers, and contribute to our growing platform. We offer a flexible work environment and opportunities for professional growth.",
+    "requirements": [
+      "3+ years of React development experience",
+      "Strong JavaScript and ES6+ knowledge",
+      "Experience with state management (Redux, Context API)",
+      "Familiarity with modern build tools and workflows",
+      "Understanding of responsive design principles"
+    ],
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Redux", "Webpack", "Jest", "Sass", "Responsive Design"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": false,
+    "created_at": "2024-01-14T09:30:00Z",
+    "updated_at": "2024-01-14T09:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Data Scientist",
+    "company": "DataTech Solutions",
+    "location": "New York, NY",
+    "salary_min": 100000,
+    "salary_max": 150000,
+    "description": "We are looking for a passionate Data Scientist to analyze large datasets and derive actionable insights. You will work with machine learning models, statistical analysis, and data visualization tools to solve complex business problems.",
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or related field",
+      "4+ years of experience in data science",
+      "Proficiency in Python and R",
+      "Experience with machine learning frameworks",
+      "Strong statistical analysis skills"
+    ],
+    "skills": ["Python", "R", "Machine Learning", "TensorFlow", "Pandas", "NumPy", "Scikit-learn", "SQL", "Tableau"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-13T14:20:00Z",
+    "updated_at": "2024-01-13T14:20:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Product Manager",
+    "company": "InnovateCorp",
+    "location": "Seattle, WA",
+    "salary_min": 110000,
+    "salary_max": 160000,
+    "description": "Lead product development initiatives and drive product strategy. You will work closely with engineering, design, and marketing teams to deliver exceptional products that meet customer needs and business objectives.",
+    "requirements": [
+      "Bachelor's degree in Business, Engineering, or related field",
+      "5+ years of product management experience",
+      "Experience with agile development methodologies",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and leadership abilities"
+    ],
+    "skills": ["Product Management", "Agile", "Scrum", "Analytics", "User Research", "Roadmapping", "Jira", "Confluence"],
+    "experience_level": "senior",
+    "job_type": "full-time",
+    "remote_option": false,
+    "created_at": "2024-01-12T11:45:00Z",
+    "updated_at": "2024-01-12T11:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Junior Software Engineer",
+    "company": "FreshCode Inc.",
+    "location": "Denver, CO",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "description": "Perfect opportunity for a recent graduate or junior developer to start their career. You'll work on various projects, learn from experienced developers, and contribute to our growing codebase. We provide mentorship and training programs.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "0-2 years of professional development experience",
+      "Knowledge of at least one programming language",
+      "Understanding of software development principles",
+      "Eagerness to learn and grow"
+    ],
+    "skills": ["JavaScript", "Python", "Java", "Git", "HTML", "CSS", "SQL", "Linux"],
+    "experience_level": "entry",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-11T16:00:00Z",
+    "updated_at": "2024-01-11T16:00:00Z"
+  },
+  {
+    "id": "6",
+    "title": "DevOps Engineer",
+    "company": "CloudFirst Technologies",
+    "location": "Chicago, IL",
+    "salary_min": 95000,
+    "salary_max": 140000,
+    "description": "Join our DevOps team to build and maintain scalable infrastructure. You'll work with containerization, CI/CD pipelines, and cloud platforms to ensure reliable and efficient software delivery.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of DevOps experience",
+      "Experience with AWS, Docker, and Kubernetes",
+      "Knowledge of CI/CD tools and practices",
+      "Strong scripting and automation skills"
+    ],
+    "skills": ["AWS", "Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible", "Linux", "Python", "Bash"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-10T13:30:00Z",
+    "updated_at": "2024-01-10T13:30:00Z"
+  },
+  {
+    "id": "7",
+    "title": "UX/UI Designer",
+    "company": "DesignStudio Pro",
+    "location": "Los Angeles, CA",
+    "salary_min": 75000,
+    "salary_max": 110000,
+    "description": "Create intuitive and beautiful user experiences for our digital products. You'll conduct user research, create wireframes and prototypes, and collaborate with development teams to implement designs.",
+    "requirements": [
+      "Bachelor's degree in Design, HCI, or related field",
+      "3+ years of UX/UI design experience",
+      "Proficiency in design tools like Figma, Sketch, or Adobe XD",
+      "Strong portfolio showcasing design process",
+      "Understanding of user-centered design principles"
+    ],
+    "skills": ["Figma", "Sketch", "Adobe XD", "Photoshop", "Illustrator", "User Research", "Wireframing", "Prototyping"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": false,
+    "created_at": "2024-01-09T12:15:00Z",
+    "updated_at": "2024-01-09T12:15:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Backend Python Developer",
+    "company": "ServerSide Solutions",
+    "location": "Boston, MA",
+    "salary_min": 85000,
+    "salary_max": 125000,
+    "description": "Develop robust backend services and APIs using Python. You'll work with databases, implement business logic, and ensure scalable and maintainable code architecture.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of Python development experience",
+      "Experience with Django or Flask frameworks",
+      "Knowledge of database design and optimization",
+      "Understanding of RESTful API design"
+    ],
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "Redis", "REST API", "Git", "Docker", "AWS"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-08T10:45:00Z",
+    "updated_at": "2024-01-08T10:45:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Mobile App Developer",
+    "company": "MobileFirst Inc.",
+    "location": "Miami, FL",
+    "salary_min": 90000,
+    "salary_max": 130000,
+    "description": "Build native and cross-platform mobile applications for iOS and Android. You'll work with modern mobile development frameworks and collaborate with designers to create engaging user experiences.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "4+ years of mobile development experience",
+      "Experience with React Native or Flutter",
+      "Knowledge of native iOS/Android development",
+      "Understanding of mobile UI/UX principles"
+    ],
+    "skills": ["React Native", "Flutter", "Swift", "Kotlin", "JavaScript", "TypeScript", "Firebase", "REST API"],
+    "experience_level": "mid",
+    "job_type": "full-time",
+    "remote_option": false,
+    "created_at": "2024-01-07T15:20:00Z",
+    "updated_at": "2024-01-07T15:20:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovations Lab",
+    "location": "San Jose, CA",
+    "salary_min": 130000,
+    "salary_max": 190000,
+    "description": "Design and implement machine learning models and systems. You'll work on cutting-edge AI projects, optimize model performance, and deploy ML solutions to production environments.",
+    "requirements": [
+      "Master's degree in Computer Science, ML, or related field",
+      "5+ years of machine learning experience",
+      "Experience with TensorFlow, PyTorch, or similar frameworks",
+      "Strong mathematical and statistical background",
+      "Experience with model deployment and MLOps"
+    ],
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "Kubernetes", "Docker", "AWS"],
+    "experience_level": "senior",
+    "job_type": "full-time",
+    "remote_option": true,
+    "created_at": "2024-01-06T09:10:00Z",
+    "updated_at": "2024-01-06T09:10:00Z"
+  }
+]
