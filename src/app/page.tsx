@@ -21,7 +21,7 @@ export default function JobsPage() {
   useEffect(() => {
     loadJobs();
     checkUser();
-  }, [currentPage, filters]);
+  }, [currentPage, filters]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const checkUser = async () => {
     try {

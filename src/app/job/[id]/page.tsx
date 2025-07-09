@@ -21,9 +21,9 @@ import {
 } from '@/utils/helpers';
 
 interface JobDetailPageProps {
-  params: {
+  params: Promise<{
     id: string;
-  };
+  }>;
 }
 
 async function getJob(id: string): Promise<Job | null> {
@@ -206,7 +206,7 @@ export default async function JobDetailPage({ params }: JobDetailPageProps) {
                 Save for Later
               </button>
               <p className="text-xs text-gray-500 mt-3">
-                You'll be able to upload your resume and write a cover letter on the next page.
+                You&apos;ll be able to upload your resume and write a cover letter on the next page.
               </p>
             </div>
           </div>

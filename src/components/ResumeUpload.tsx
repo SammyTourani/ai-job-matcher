@@ -159,7 +159,7 @@ export default function ResumeUpload({ onUpload, loading }: ResumeUploadProps) {
           What happens next?
         </h3>
         <ul className="text-sm text-gray-600 space-y-1">
-          <li>• We'll extract your skills and experience using AI</li>
+          <li>• We&apos;ll extract your skills and experience using AI</li>
           <li>• Match you with relevant job opportunities</li>
           <li>• Provide personalized recommendations</li>
           <li>• Your data is kept secure and private</li>
@@ -167,12 +167,4 @@ export default function ResumeUpload({ onUpload, loading }: ResumeUploadProps) {
       </div>
     </div>
   );
-}
-
-function formatFileSize(bytes: number): string {
-  if (bytes === 0) return '0 Bytes';
-  const k = 1024;
-  const sizes = ['Bytes', 'KB', 'MB', 'GB'];
-  const i = Math.floor(Math.log(bytes) / Math.log(k));
-  return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
 }

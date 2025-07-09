@@ -100,7 +100,7 @@ export default function UploadPage() {
                   Resume Uploaded Successfully!
                 </h2>
                 <p className="text-gray-600">
-                  We've analyzed your resume and extracted key information
+                  We&apos;ve analyzed your resume and extracted key information
                 </p>
               </div>
 
