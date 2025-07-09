@@ -174,3 +174,11 @@ export function intersection<T>(arr1: T[], arr2: T[]): T[] {
 export function difference<T>(arr1: T[], arr2: T[]): T[] {
   return arr1.filter(item => !arr2.includes(item));
 }
+
+export function formatFileSize(bytes: number): string {
+  if (bytes === 0) return '0 Bytes';
+  const k = 1024;
+  const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+  const i = Math.floor(Math.log(bytes) / Math.log(k));
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+}
